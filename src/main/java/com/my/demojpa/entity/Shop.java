@@ -14,6 +14,7 @@ import javax.persistence.criteria.CriteriaBuilder;
 @AllArgsConstructor
 public class Shop {
 
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;

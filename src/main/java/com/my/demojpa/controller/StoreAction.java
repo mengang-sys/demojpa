@@ -38,6 +38,7 @@ public class StoreAction {
             }
 
         }
+
         model.addAttribute("list",shopList);
         return "addmin/showShop";
     }

@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d17598c-f7b9-48bb-a7d3-a5b5d128f8f8" name="Default Changelist" comment="" />
+    <list default="true" id="3d17598c-f7b9-48bb-a7d3-a5b5d128f8f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/my/demojpa/DemojpaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/my/demojpa/DemojpaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/my/demojpa/controller/StoreAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/my/demojpa/controller/StoreAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/my/demojpa/entity/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/my/demojpa/entity/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/my/demojpa/entity/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/my/demojpa/entity/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,8 +19,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -27,6 +39,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZTnBDmsmDUlZKiGd1Q2BxrSC9h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,11 +49,22 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.my.demojpa.repository" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="DemojpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -73,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584871813098</updated>
-      <workItem from="1584871880078" duration="1745000" />
+      <workItem from="1584871880078" duration="2547000" />
     </task>
     <servers />
   </component>
@@ -85,9 +109,29 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="593" y="76" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1584872395537" />
+    <state x="499" y="11" key="CommitChangelistDialog2" timestamp="1584874378429">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584874378429" />
+    <state x="674" y="159" key="FileChooserDialogImpl" timestamp="1584874080421">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="674" y="159" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584874080421" />
+    <state x="767" y="310" width="273" height="280" key="Github.ShareDialog" timestamp="1584874244268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="767" y="310" width="273" height="280" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1584874244268" />
+    <state x="548" y="121" key="Github.UntrackedFilesDialog" timestamp="1584874278036">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="121" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584874278036" />
     <state x="313" y="47" key="SettingsEditor" timestamp="1584871914131">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="313" y="47" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584871914131" />
+    <state x="722" y="145" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584874024737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="145" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1584874024737" />
   </component>
 </project>

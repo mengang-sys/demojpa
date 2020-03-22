@@ -15,6 +15,7 @@ import java.util.Set;
 @AllArgsConstructor
 public class Store {
 
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
