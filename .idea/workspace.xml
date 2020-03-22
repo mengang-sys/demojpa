@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d17598c-f7b9-48bb-a7d3-a5b5d128f8f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/my/demojpa/DemojpaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/my/demojpa/DemojpaApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,6 +94,14 @@
       <updated>1584871813098</updated>
       <workItem from="1584871880078" duration="2547000" />
     </task>
+    <task id="LOCAL-00001" summary="[mengyang].3.4.5">
+      <created>1584875797084</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584875797084</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,11 +112,17 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[mengyang].3.4.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="[mengyang].3.4.5" />
   </component>
   <component name="WindowStateProjectService">
     <state x="593" y="76" key="#Project_Structure" timestamp="1584872395537">
