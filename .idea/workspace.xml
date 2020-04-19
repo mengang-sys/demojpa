@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d17598c-f7b9-48bb-a7d3-a5b5d128f8f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/my/demojpa/DemojpaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/my/demojpa/DemojpaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/my/demojpa/reset/Reset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -93,6 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584871813098</updated>
       <workItem from="1584871880078" duration="2547000" />
+      <workItem from="1587270442790" duration="869000" />
     </task>
     <task id="LOCAL-00001" summary="[mengyang].3.4.5">
       <created>1584875797084</created>
@@ -101,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584875797084</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[mengyang].3.4.5">
+      <created>1584876828539</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584876828539</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,10 +138,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="593" y="76" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1584872395537" />
-    <state x="499" y="0" key="CommitChangelistDialog2" timestamp="1584875361736">
+    <state x="499" y="0" key="CommitChangelistDialog2" timestamp="1584876827860">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584875361736" />
+    <state x="499" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584876827860" />
     <state x="674" y="159" key="FileChooserDialogImpl" timestamp="1584874080421">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -149,14 +158,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="313" y="47" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584871914131" />
-    <state x="547" y="160" key="Vcs.Push.Dialog.v2" timestamp="1584876732530">
+    <state x="547" y="160" key="Vcs.Push.Dialog.v2" timestamp="1584876834545">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="547" y="160" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584876732530" />
-    <state x="750" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584875334594">
+    <state x="547" y="160" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584876834545" />
+    <state x="750" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587270614983">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="750" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1584875334594" />
+    <state x="750" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1587270614983" />
     <state x="722" y="145" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584874024737">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
