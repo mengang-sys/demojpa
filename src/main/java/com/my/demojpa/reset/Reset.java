@@ -8,5 +8,6 @@ public class Reset {
         System.out.println("reset.master.4");
         System.out.println("reset.master.5");
         System.out.println("reset.master.6");
+        System.out.println("reset.master.7");
     }
 }
